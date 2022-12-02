@@ -1,0 +1,5 @@
+Club~0~0~0~2
+Spear~0~0~0~2
+Rapier~1~0~0~5
+Battleaxe~2~0~0~15
+Longsword~3~0~0~50

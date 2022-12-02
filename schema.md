@@ -1,0 +1,11 @@
+classes:
+- NPC Merchant
+  - Assets
+    - Puzzle (upon interaction)
+    - Monster
+    - Inventory: custom data structure
+  - Functions:
+- Monster
+- Party
+- Sorcerer
+- 

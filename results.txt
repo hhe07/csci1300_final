@@ -1,0 +1,14 @@
+Your party was not large enough. 
+Members: ben (you) 
+Rooms cleared: 0
+Gold remaining: 81
+Treasure items: 
+    Diamond circlet have: 0. sold for: 40
+    Emerald bracelet have: 0. sold for: 30
+    Gem-encrusted goblet have: 1. sold for: 50
+    Ruby Necklace have: 0. sold for: 20
+    Silver Ring have: 0. sold for: 10
+
+Spaces explored: 0
+Monsters defeated: 0
+Turns:55

@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "hash_map": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "any": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "memory_resource": "cpp",
+        "mutex": "cpp",
+        "optional": "cpp",
+        "*.inc": "cpp"
+    }
+}
